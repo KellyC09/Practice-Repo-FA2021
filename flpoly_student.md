@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Kelly Carrigan (they/them)
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to data science
 
-- Course 2
+- Intro to python
 
-- Course 3
+- Geometry and Calculus 1
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Crafts
 
-- Thing 2
+- Anime
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Gaming
+<https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/07
